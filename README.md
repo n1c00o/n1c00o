@@ -1,4 +1,6 @@
-### Hi there 👋
+### Windows Server > Debian 👋
+
+![](https://images2.minutemediacdn.com/image/upload/c_fill,g_auto,h_1248,w_2220/f_auto,q_auto,w_1100/v1555357290/shape/mentalfloss/computer-man-hero.jpg)
 
 <!--
 **n1c00o/n1c00o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
