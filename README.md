@@ -1,12 +1,5 @@
 # 👋 It's a me, Nico
 
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no">
-    <link rel="stylesheet" href="t-rex-runner/index.css">
-    <script src="t-rex-runner/index.js"></script>
-</head>
-
 ## A little boy in a big universe
 
 <!-- Banner from pinimg -->
