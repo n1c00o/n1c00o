@@ -6,6 +6,8 @@
 
 I'm a little guy who develops things. I like automation, private repos and my codes.
 
+My [GitLab](https://gitlab.com/n1c00o) is a good place too!
+
 ---
 
 - 🌱 I’m currently learning **Rust**
